@@ -8,7 +8,7 @@ Your friendly agar.io private server recreation, now using WebSockets instead of
 
 - It supports handling multiple worlds, all within one instance. Be wary that you can still use up the one CPU core node.js is running on.
 
-- It has a minimal memory footprint, and strictly uses uWebSockets for networking.
+- It has a minimal memory footprint, and strictly uses WebSockets for networking.
 
 - The code uses JSDoc to specify types. Understanding what the code does is down to your understanding of English.
 
@@ -22,7 +22,7 @@ Your friendly agar.io private server recreation, now using WebSockets instead of
 
 1. Make sure you have node.js version 8 or greater.
 
-2. Clone / [download](https://github.com/Luka967/OgarII/archive/master.zip) the repo.
+2. Clone / [download](https://github.com/FlushDesert22/OgarII_WebSockets_Edition/archive/master.zip) the repo.
 
 3. `npm install` in `/`.
 
